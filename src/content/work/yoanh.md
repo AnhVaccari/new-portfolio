@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes peopl
 
 #### Screenshots
 
-  <img src="/public/assets/ecran1.png" alt="Image 1" style="float: left;" />
-  <img src="/public/assets/ecran2.png" alt="Image 2" style="float: left;"  />
-  <img src="/public/assets/ecran3.png" alt="Image 2" style="float: left;"  />
-  <img src="/public/assets/ecran4.png" alt="Image 2" style="float: left;"  />
+  <img src="/assets/ecran1.png" alt="Image 1" style="float: left;" />
+  <img src="/assets/ecran2.png" alt="Image 2" style="float: left;"  />
+  <img src="/assets/ecran3.png" alt="Image 2" style="float: left;"  />
+  <img src="/assets/ecran4.png" alt="Image 2" style="float: left;"  />
