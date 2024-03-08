@@ -8,8 +8,7 @@ description: |
 tags:
   - NestJS/TypeORM
   - Flutter
-  - MySQL
-  - API
+  - MySQL/API
 ---
 
 ### YogAnh
@@ -17,8 +16,6 @@ tags:
 > Séances de yoga personnalisées pour une expérience enrichissante dédiée aux amateurs de bien-être.
 
 Bienvenue sur YogAnh, votre compagnon de yoga. Explorez des séances adaptées à votre niveau, créez des séances selon vos préférences et découvrez une approche moderne du bien-être grâce à notre application simple et intuitive. Commencez votre voyage vers l'équilibre et la sérénité avec Yoganh.
-
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy.
 
 #### En savoir plus sur YogAnh
 
@@ -42,7 +39,9 @@ Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes peopl
 
 #### Screenshots
 
-  <img src="/assets/ecran1.png" alt="Image 1" style="float: left;" />
-  <img src="/assets/ecran2.png" alt="Image 2" style="float: left;"  />
-  <img src="/assets/ecran3.png" alt="Image 2" style="float: left;"  />
-  <img src="/assets/ecran4.png" alt="Image 2" style="float: left;"  />
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="/assets/ecran1.png" alt="Image 1" style="width: 50%; flex-grow: 1; flex-basis: 0;" />
+  <img src="/assets/ecran2.png" alt="Image 2" style="width: 50%; flex-grow: 1; flex-basis: 0;" />
+  <img src="/assets/ecran3.png" alt="Image 3" style="width: 50%; flex-grow: 1; flex-basis: 0;" />
+  <img src="/assets/ecran4.png" alt="Image 4" style="width: 50%; flex-grow: 1; flex-basis: 0;" />
+</div>
