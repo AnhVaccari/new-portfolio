@@ -14,7 +14,7 @@ Ce projet consiste à développer un site web statique pour un pressing, en util
 
 - **Technologies utilisées** : Astro.js, HTML, CSS, JavaScript.
 
-- **Venez visiter le site** &#x27A1; Pressing <a href="https://pincealince-carca.fr" target="_blank" rel="noopener noreferrer">La pince à linge</a>.
+- **Venez visiter le site** &#x27A1; Pressing <a href="https://pressing-eta.vercel.app" target="_blank" rel="noopener noreferrer">La pince à linge</a>.
 
   <img src="/assets/pressing.png" alt="Image 1" style="float: left; margin-top: 30px" />
 
