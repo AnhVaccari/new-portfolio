@@ -1,5 +1,5 @@
 ---
-title: LA PINCE A LINGE
+title: La Pince à Linge
 publishDate: 2024-03-04 00:00:00
 img: /assets/pressing2.png
 img_alt: Horaires du pressing et photos du magasin

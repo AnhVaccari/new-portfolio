@@ -20,7 +20,7 @@ tags:
 
   -Sign In avec Google
 
-  -Modifier son profil
+  -Modifier le profil
 
   -Créer une annonce
 
