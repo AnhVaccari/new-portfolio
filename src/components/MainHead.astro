@@ -4,11 +4,13 @@ import '../styles/global.css';
 interface Props {
 	title?: string | undefined;
 	description?: string | undefined;
+	icon?: string | undefined;
 }
 
 const {
 	title = 'Anh Vaccari - Développeuse Full-Stack',
 	description = 'Porfolio de Anh Vaccari, développeuse Full-Stack',
+	icon = '/public/assets/css-code.png',
 } = Astro.props;
 ---
 
@@ -17,8 +19,9 @@ const {
 <meta name="viewport" content="width=device-width" />
 <meta name="generator" content={Astro.generator} />
 <title>{title}</title>
+<link rel="icon" href={icon} />
 
-<link rel="shortcut icon" href="/public/assets/css-code.png" />
+<!-- <link rel="shortcut icon" href="/public/assets/css-code.png" />-->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
