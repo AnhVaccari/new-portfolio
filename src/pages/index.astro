@@ -43,9 +43,9 @@ const projects = (await getCollection('work'))
 
 				<img
 					alt="Anh Vaccari"
-					width="400"
-					height="480"
-					src="/assets/profile.png"
+					width="250"
+					height="250"
+					src="/assets/profile1.JPG"
 				/>
 			</header>
 
@@ -92,15 +92,12 @@ const projects = (await getCollection('work'))
 		flex-direction: column;
 		align-items: center;
 		gap: 2rem;
+		justify-content: center;
+		text-align: center;
 	}
 
 	.roles {
 		display: none;
-	}
-
-	.hero img {
-		object-fit: cover;
-		object-position: top;
 	}
 
 	@media (min-width: 50em) {
@@ -109,6 +106,7 @@ const projects = (await getCollection('work'))
 			grid-template-columns: 6fr 4fr;
 			padding-inline: 2.5rem;
 			gap: 3.75rem;
+			justify-items: center; 
 		}
 
 		.roles {
@@ -118,9 +116,12 @@ const projects = (await getCollection('work'))
 		}
 
 		.hero img {
-			aspect-ratio: 3 / 4;
-			border-radius: 4.5rem;
-			object-fit: cover;
+			width: 250px; 
+    		height: 250px;
+    		border-radius: 50%;
+    		object-fit: cover;
+    		object-position: top;
+			margin-top: 1rem;
 		}
 	}
 

@@ -10,7 +10,7 @@ import Hero from '../components/Hero.astro';
 		<main class="wrapper about">
 			<Hero
 				title="A propos"
-				tagline="Découvrez mon parcours, mes compétences et mes centres d'intérêt."
+				tagline="Qui suis-je ? Découvrez mon parcours, mes expertises et ce qui m’anime au quotidien !"
 			>
 				<!-- <img
 					width="1553"
@@ -24,33 +24,32 @@ import Hero from '../components/Hero.astro';
 				<h2 class="section-title">Background</h2>
 				<div class="content">
 					<p>
-						Ce qui m'a amené à me reconvertir dans le développement web, c'est la volonté de
-						travailler dans un domaine qui me m'enthousiasme et qui me permet de m'épanouir.
+						Ce qui m'a amenée à me reconvertir dans le développement web, 
+						c'est la volonté de travailler dans un domaine qui m'enthousiasme et me permet de m'épanouir.
 					</p>
 					<p>
-						Ce qui me caractérise le plus, c'est mon désir d'apprendre, ma capacité d'adaptation et ma
-						polyvalence.
-						J'aime explorer de nouvelles idées et technologies et je suis toujours prête à relever de
-						nouveaux défis.
+						Ce qui me caractérise le plus, c'est mon désir d'apprendre, ma capacité d'adaptation et ma polyvalence. 
+						J'aime explorer de nouvelles idées et technologies, et je suis toujours prête à relever de nouveaux défis.
 					</p>
 					<p>
-						Dotée d'une nature ouverte, j'apprécie le travail en équipe et le partage des connaissances.
+						Dotée d’une nature ouverte, j’apprécie le travail en équipe et le partage des connaissances.
 					</p>
 				</div>
 			</section>
 			<section>
 				<h2 class="section-title">Diplômes</h2>
 				<div class="content">
-					<p>- Titre Professionnel de Concepteur Développeur d'Application Web et Web Mobile</p>
-					<p>(niveau 6 - Bac + 3/4) - 2023</p>
-					<p>- Titre Professionnel de Développeur Web et Web Mobile </p>
-					<p>(niveau 5 - Bac + 2) - 2021</p>
+					<ul>
+						<li><strong>Titre Professionnel de Concepteur Développeur d'Applications</strong> niveau 6 (Bac+3/4) – <em> mars 2023</em></li>
+						<li><strong>Titre Professionnel de Développeur Web et Web Mobile</strong> niveau 5 (Bac+2) – <em> déc. 2021</em></li>
+					</ul>
+				
 				</div>
 			</section>
 			<section>
 				<h2 class="section-title">Skills</h2>
 				<div class="content">
-					<p>Curieuse, Créative, Autonome, Organisée, Dynamique, Polyvalente, Travail d'équipe</p>
+					<p>Curieuse, créative, autonome, organisée, dynamique, polyvalente, esprit d'équipe.</p>
 				</div>
 			</section>
 		</main>
@@ -84,6 +83,16 @@ import Hero from '../components/Hero.astro';
 		font-size: var(--text-xl);
 		color: var(--gray-0);
 	}
+
+	.content ul {
+    list-style-type: disc; 
+    padding-left: 20px; 
+	}
+
+	.content li {
+    margin-bottom: 8px; 
+	}
+
 
 	.content {
 		grid-column: 2 / 4;
