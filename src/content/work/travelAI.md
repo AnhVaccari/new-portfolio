@@ -4,7 +4,7 @@ publishDate: 2019-10-02 00:00:00
 img: /assets/stock-2.jpg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
-  Application de Planification de Voyages Personnalisés
+  Application de planification de voyages sur mesure, permettant aux utilisateurs de créer des itinéraires personnalisés en fonction de leurs préférences et de leurs destinations.
 tags:
   - Astro.js
   - Nest.js
@@ -12,15 +12,11 @@ tags:
   - IA
 ---
 
-Cette application utilise l'IA pour simplifier la création d'itinéraires de voyage adaptés à vos préférences et à votre budget. Grâce à des algorithmes avancés, elle génère des plans optimisés, garantissant une expérience fluide et personnalisée.
+##### Objectif
 
-Son interface intuitive vous permet de renseigner vos centres d'intérêt, vos expériences souhaitées et vos contraintes financières afin de structurer un itinéraire sur mesure. Vous pouvez facilement modifier votre parcours, réorganiser les étapes, ajouter ou supprimer des destinations selon vos envies.
+Développer une application de planification de voyages personnalisés, utilisant l'intelligence artificielle pour générer des itinéraires adaptés aux préférences, au budget et aux contraintes de chaque utilisateur. L'objectif est de rendre la création d'itinéraires simple, fluide et totalement sur mesure grâce à une interface intuitive et une organisation centralisée.
 
-L'IA vous suggère également des hébergements et des sites à visiter en fonction de vos préférences, pour un voyage alliant confort et découverte. L'application intègre une carte interactive pour visualiser et organiser facilement votre itinéraire.
-
-Que vous voyagiez en solo, en famille ou en groupe, ce planificateur intelligent optimise votre temps et enrichit votre expérience en vous recommandant les meilleures adresses, restaurants et activités à découvrir.
-
-### Principales caractéristiques de l'application :
+##### Principales caractéristiques de l'application :
 
 &#x27A1; Création d'itinéraire personnalisé en fonction de vos intérêts, de votre budget et de vos préférences de voyage
 
@@ -37,4 +33,4 @@ utilisateurs
 
 &#x27A1; Flexibilité pour modifier, réorganiser et personnaliser votre itinéraire à votre guise
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy.
+<!--Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy.-->

@@ -4,38 +4,31 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/ecran.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  Application conçue pour la pratique du yoga. La partie front-end est développer en Flutter, le back-end en NestJS avec TypeORM, et la base de données est MySQL.
+  Bienvenue sur YogAnh, votre compagnon de yoga. Explorez des séances adaptées à votre niveau, créez des séances selon vos préférences et découvrez une approche moderne du bien-être grâce à notre application simple et intuitive. Commencez votre voyage vers l’équilibre et la sérénité avec YogAnh.
 tags:
   - NestJS/TypeORM
   - Flutter
   - MySQL/API
 ---
 
-### YogAnh
+#### Objectif
 
-> Séances de yoga personnalisées pour une expérience enrichissante dédiée aux amateurs de bien-être.
+> YogAnh vise à offrir une expérience de yoga personnalisée pour tous les niveaux, avec des séances adaptées à chaque utilisateur.
 
-Bienvenue sur YogAnh, votre compagnon de yoga. Explorez des séances adaptées à votre niveau, créez des séances selon vos préférences et découvrez une approche moderne du bien-être grâce à notre application simple et intuitive. Commencez votre voyage vers l'équilibre et la sérénité avec Yoganh.
+##### Réalisation
 
-#### En savoir plus sur YogAnh
+Développée avec Flutter pour un front-end fluide, NestJS et TypeORM pour le back-end, et MySQL pour la gestion des données.
 
-- **Fonctionnalités personnalisées** :
+- **Fonctionnalités** :
 
   -Adaptez vos séances de yoga en fonction de vos besoins et de votre niveau d'expérience.
 
   -Créez vos séances de yoga avec vos poses favorites dans la listes des poses proposées.
 
-- **Interface intuitive**:
-
   -Naviguez facilement à travers l'application grâce à une interface conviviale et bien conçue.
 
-- **Communauté engagée**:
-
-  -Rejoignez une communauté de passionnés de yoga et partagez votre expérience avec d'autres utilisateurs.
-
-- **Technologies de pointe**:
-
-  -Avec Flutter, NestJS et MySQL, YogAnh offre une expérience utilisateur fluide et sécurisée.
+**Technologies** :
+Flutter, NestJS, TypeORM, et MySQL garantissent une expérience optimale et sécurisée.
 
 #### Screenshots
 
